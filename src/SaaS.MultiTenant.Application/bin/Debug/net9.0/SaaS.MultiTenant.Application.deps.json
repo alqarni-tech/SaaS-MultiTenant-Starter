@@ -1,0 +1,39 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "SaaS.MultiTenant.Application/1.0.0": {
+        "dependencies": {
+          "SaaS.MultiTenant.Core": "1.0.0"
+        },
+        "runtime": {
+          "SaaS.MultiTenant.Application.dll": {}
+        }
+      },
+      "SaaS.MultiTenant.Core/1.0.0": {
+        "runtime": {
+          "SaaS.MultiTenant.Core.dll": {
+            "assemblyVersion": "1.0.0.0",
+            "fileVersion": "1.0.0.0"
+          }
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SaaS.MultiTenant.Application/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "SaaS.MultiTenant.Core/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

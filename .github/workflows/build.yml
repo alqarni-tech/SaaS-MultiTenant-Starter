@@ -1,0 +1,23 @@
+name: Build and Test SaaS-MultiTenant-Starter
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup .NET
+        uses: actions/setup-dotnet@v4
+        with:
+          dotnet-version: '9.0.x'
+      - name: Restore dependencies
+        run: dotnet restore ./SaaS-MultiTenant-Starter.sln
+      - name: Build
+        run: dotnet build ./SaaS-MultiTenant-Starter.sln --no-restore
+      - name: Test
+        run: dotnet test ./SaaS.MultiTenant.Tests/SaaS.MultiTenant.Tests.csproj --no-build --verbosity normal 

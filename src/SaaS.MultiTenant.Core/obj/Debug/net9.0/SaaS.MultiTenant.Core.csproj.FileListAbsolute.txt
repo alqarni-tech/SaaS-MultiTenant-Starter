@@ -1,0 +1,11 @@
+C:\Users\00014226\Desktop\Github Projects\SaaS-Starter-Solutions\SaaS-MultiTenant-Starter\src\SaaS.MultiTenant.Core\bin\Debug\net9.0\SaaS.MultiTenant.Core.deps.json
+C:\Users\00014226\Desktop\Github Projects\SaaS-Starter-Solutions\SaaS-MultiTenant-Starter\src\SaaS.MultiTenant.Core\bin\Debug\net9.0\SaaS.MultiTenant.Core.dll
+C:\Users\00014226\Desktop\Github Projects\SaaS-Starter-Solutions\SaaS-MultiTenant-Starter\src\SaaS.MultiTenant.Core\bin\Debug\net9.0\SaaS.MultiTenant.Core.pdb
+C:\Users\00014226\Desktop\Github Projects\SaaS-Starter-Solutions\SaaS-MultiTenant-Starter\src\SaaS.MultiTenant.Core\obj\Debug\net9.0\SaaS.MultiTenant.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\00014226\Desktop\Github Projects\SaaS-Starter-Solutions\SaaS-MultiTenant-Starter\src\SaaS.MultiTenant.Core\obj\Debug\net9.0\SaaS.MultiTenant.Core.AssemblyInfoInputs.cache
+C:\Users\00014226\Desktop\Github Projects\SaaS-Starter-Solutions\SaaS-MultiTenant-Starter\src\SaaS.MultiTenant.Core\obj\Debug\net9.0\SaaS.MultiTenant.Core.AssemblyInfo.cs
+C:\Users\00014226\Desktop\Github Projects\SaaS-Starter-Solutions\SaaS-MultiTenant-Starter\src\SaaS.MultiTenant.Core\obj\Debug\net9.0\SaaS.MultiTenant.Core.csproj.CoreCompileInputs.cache
+C:\Users\00014226\Desktop\Github Projects\SaaS-Starter-Solutions\SaaS-MultiTenant-Starter\src\SaaS.MultiTenant.Core\obj\Debug\net9.0\SaaS.MultiTenant.Core.dll
+C:\Users\00014226\Desktop\Github Projects\SaaS-Starter-Solutions\SaaS-MultiTenant-Starter\src\SaaS.MultiTenant.Core\obj\Debug\net9.0\refint\SaaS.MultiTenant.Core.dll
+C:\Users\00014226\Desktop\Github Projects\SaaS-Starter-Solutions\SaaS-MultiTenant-Starter\src\SaaS.MultiTenant.Core\obj\Debug\net9.0\SaaS.MultiTenant.Core.pdb
+C:\Users\00014226\Desktop\Github Projects\SaaS-Starter-Solutions\SaaS-MultiTenant-Starter\src\SaaS.MultiTenant.Core\obj\Debug\net9.0\ref\SaaS.MultiTenant.Core.dll
