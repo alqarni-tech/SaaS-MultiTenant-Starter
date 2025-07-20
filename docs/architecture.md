@@ -1,5 +1,23 @@
 # Architecture
 
+```mermaid
+graph TD
+  API[API Layer]
+  Application[Application Layer]
+  Core[Core Layer]
+  Infrastructure[Infrastructure Layer]
+  DB[(Database)]
+  Tenant1((Tenant 1))
+  Tenant2((Tenant 2))
+
+  API --> Application
+  Application --> Core
+  Application --> Infrastructure
+  Infrastructure --> DB
+  DB --> Tenant1
+  DB --> Tenant2
+```
+
 This project follows Clean Architecture principles:
 
 - **Core**: Domain entities and interfaces (no dependencies)
